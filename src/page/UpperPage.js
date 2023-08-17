@@ -67,7 +67,7 @@ function UpperPage() {
               </CardContent>
               <CardActions>
                 <a href={item.link}>
-                  <Button size="small"> See More </Button>
+                  <Button size="small"> See More++ </Button>
                 </a>
               </CardActions>
             </Card>
